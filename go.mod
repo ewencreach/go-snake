@@ -1,6 +1,6 @@
 module github.com/ewencreach/go-snake
 
-go 1.24.5
+go 1.25
 
 require github.com/hajimehoshi/ebiten/v2 v2.9.4
 
